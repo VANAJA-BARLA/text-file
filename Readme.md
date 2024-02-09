@@ -1,0 +1,1 @@
+coding is not about typing -its about solving problems
